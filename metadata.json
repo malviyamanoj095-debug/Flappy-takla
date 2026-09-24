@@ -1,0 +1,7 @@
+{
+  "name": "Flappy Bird Retro Arcade",
+  "description": "A complete, fully playable classic Flappy Bird retro arcade game with procedural canvas graphics and 8-bit Web Audio synthesizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
